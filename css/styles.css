@@ -1,0 +1,164 @@
+body{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+
+.top-container{
+	position: relative;
+	padding-top: 2.5rem;
+	background-color: #EAF6F6;
+}
+
+.top-cloud{
+	position: absolute;
+	right: 16rem;
+	top: 3.2rem;
+}
+
+
+.bottom-cloud{
+	position: absolute;
+	left: 16rem;
+	bottom: 20rem;
+}
+
+
+.skill-desc{
+	font-size: 1rem;
+	line-height: 1.5;
+	padding: 1.5rem 0 1.5rem 0;
+}
+
+
+h2{
+	color: #66BFBF;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 500;
+	font-size: 2.3rem;
+}
+
+h3{
+	font-family: 'Ubuntu', sans-serif;
+	color: #11999E;
+	font-weight: 400;
+}
+
+.pro{
+	text-decoration: underline;
+	font-size: 2.2rem;
+}
+
+
+h1{
+	font-family: 'Sacramento', cursive;
+	font-size: 5rem;
+	font-weight: 800;
+	margin: 0;
+	padding: 4rem 0 0 0;
+	color: #66BFBF;
+}
+
+a{
+	color: #11999E;
+}
+
+.second-heading{
+	margin: 0 0 1em 0;
+	line-height: 0.5;
+	font-weight: 500;
+	font-size: 2.2em;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 50px auto 50px auto;
+	padding: 50px 0 50px 0;
+	text-align: left;
+}
+
+.skill-image-1{
+	width: 25%;
+	float: left;
+	margin-right: 2em;
+}
+
+.skill-image-2{
+	width: 25%;
+	float: right;
+	margin-left: 2em;
+}
+
+
+/*
+.skill-desc1{
+	clear: left;
+}
+
+
+.skill-desc2{
+	clear: right;
+}
+*/
+
+
+hr{
+	size: 0;
+	width: 10%;
+	border-style: dotted;
+	border-width: .3em 0 0 0;
+}
+
+.middle-container{
+	margin: 3rem 0 3rem 0;
+	padding: 0 0 0 0;
+}
+
+.profile{
+	margin: 0 0 3rem 0;
+}
+
+.skills{
+	margin: 3rem 0 3rem 0;
+}
+
+.contact-me{
+	margin: 3rem 0 3rem 0;
+}
+
+
+.bottom-container{
+	background-color: #66bfbf;
+	padding: 3rem 0 3rem 0;
+	margin: 0;
+}
+
+.footer-link{
+	text-decoration:none;
+	 padding: 16px;
+}
+
+.copy{
+	color: #eaf6f6;
+}
+
+.btn{
+   -webkit-border-radius: 16px;
+   -moz-border-radius: 16px;
+   border-radius: 10px;
+   height: 25px;
+   line-height: 25px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 150px;
+   font-size: 20px;
+   font-weight: 600;
+   padding: 8px;
+   background-color: #66afaF;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
